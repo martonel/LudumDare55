@@ -6,6 +6,8 @@ TagManager:
   tags:
   - PauseMenu
   - GameManager
+  - chooser
+  - selector
   layers:
   - Default
   - TransparentFX
@@ -42,6 +44,18 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 834223631
+    locked: 0
+  - name: City
+    uniqueID: 2145201753
+    locked: 0
+  - name: Characters
+    uniqueID: 2837599147
+    locked: 0
+  - name: SpeakBubble
+    uniqueID: 3018520195
     locked: 0
   - name: Canvas
     uniqueID: 3189771081
